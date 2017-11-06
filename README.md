@@ -24,6 +24,8 @@ Gaussian Noise filter for mean={0,5,10,20},sigma={0,20,50,100}
 )
 
 Salt&Pepper Noise
+
+
 ![Alt text](https://user-images.githubusercontent.com/31779733/32463003-72724c46-c309-11e7-9ce4-f035871c6870.png
 )
 
@@ -34,6 +36,11 @@ Add different filter to Gaussian noise, and seems for Guassian noise, box filter
 )
 
 Add different filter to Salt&Pepper Noise, and seems median filter has better results
+
+
 ![Alt text](https://user-images.githubusercontent.com/31779733/32463246-39ec2c10-c30a-11e7-878a-2beb417f52b4.png)
 
 ## Exercise 4
+Thredsholding:
+
+![Alt text]()
