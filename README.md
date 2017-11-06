@@ -6,8 +6,15 @@ Mat has two data parts: the matrix header (containing information such as the si
 
 ## Exercise2
 ![Alt text](https://user-images.githubusercontent.com/31779733/32462180-7dea8492-c306-11e7-89dc-607fcd2e3c7d.png)
+
+
 [106 122 225]
 [  4 135 225]
 [151 181 103]
 
 ## Exercise 3
+
+![Alt text]()
+![Alt text]()
+![Alt text]()
+![Alt text]()
