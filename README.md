@@ -43,4 +43,4 @@ Add different filter to Salt&Pepper Noise, and seems median filter has better re
 ## Exercise 4
 Thredsholding:
 
-![Alt text]()
+![Alt text](https://user-images.githubusercontent.com/31779733/32463824-e144db32-c30b-11e7-9ea0-f3a343b616df.png)
